@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53ab706d-5736-4645-9ae4-bf7cf3cbd42e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Q1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shir/Q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shir/s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1_for_student/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1_for_student/question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1_for_student/question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1_for_student/question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1_for_student/question4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1_for_student/question5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw5/Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_1/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_1/shir.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/ise_lec18.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_10/ps_10_code.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/1_linkedlist_appendRec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/2_linkedlist_accumulated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/4_Time_Comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/5_QueueOnStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/6_BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/6_inorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_11/linkedlist_accumulaterRec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Time_Comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassVariable/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassVariable/example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassVariable/singletone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/example1B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/example3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/example4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/poll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WTF/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WTF/example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WTF/example3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example10_Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example12_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example6_iter_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example7_Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example8_Count_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example9_Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_13/BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_13/Fibonacci_mem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_13/Football.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_13/Israeli_Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_13/hw4_ans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_13/inorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/Example_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_2/ps_2_code.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_3/Example_10_NQueen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/Did_you_know.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/Example10_NQueensProblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/Example_10_NQueen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/PS4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_4/example_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_6/example_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/FootballTeamCopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_7/FootballTeamDCopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_3B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/example_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_8/ps_8_files/write.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week_9/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_1/Example_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_1/Example_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_1/Example_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_1/Example_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/11E_linkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/11E_linkedlist_appendRec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/11F_linkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/11F_linkedlist_accumulated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/11G_likedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/11G_likedlist_printRec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/1_ShortIf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/1_ShortIf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/2_ListComprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/2_ListComprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/3_AllAny.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/3_AllAny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/4_HighOrderedFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/4_HighOrderedFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/5_Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/5_Map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/7_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/7_reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/8_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/8_lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_10/Linked_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_10/Linked_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_2/conditional_statements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_2/loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example10_NQueensProblem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example10_NQueensProblem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example8v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example8v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_3/Example9BinarySystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_3/Example9BinarySystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/1_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/1_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/2_init_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/2_init_exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/3_repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/3_repr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/4_dd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/4_add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/5_mul.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/5_mul.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/DefensePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/DefensePlayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/FootballTeam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/FootballTeam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/OffensePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/OffensePlayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week_7/vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week_7/vector.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="2d1fd45f-3229-4231-b555-65a9b14168b7" />
+  <component name="ProjectId" id="1oY928bKyM0m4URZV0wDW3TrfIx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ab706d-5736-4645-9ae4-bf7cf3cbd42e" name="Default Changelist" comment="" />
+      <created>1613452447292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613452447292</updated>
+      <workItem from="1613452448402" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
